@@ -1,0 +1,18 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "json server",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.9.5",
+    "json-mock": "^0.1.0",
+    "dummy-json": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
